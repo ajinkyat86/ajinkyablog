@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> <!-- Created with Vectornator for iOS (http://vectornator.io/) --><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg height="100%" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="100%" xmlns:vectornator="http://vectornator.io" version="1.1" viewBox="0 0 1024 200">
+<metadata>
+<vectornator:setting key="RulersVisible" value="1"/>
+<vectornator:setting key="Units" value="Points"/>
+<vectornator:setting key="DynamicGuides" value="1"/>
+<vectornator:setting key="GuidesVisible" value="1"/>
+<vectornator:setting key="CMYKEnabledKey" value="0"/>
+<vectornator:setting key="SnapToGuides" value="1"/>
+<vectornator:setting key="GridSpacing" value="36"/>
+</metadata>
+<defs>
+<linearGradient y1="529.47" id="LinearGradient" x1="569.946" y2="528.502" x2="1593.95" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -569.946 -356.085)">
+<stop stop-color="#0d6e65" offset="0"/>
+<stop stop-color="#1fc39e" offset="1"/>
+</linearGradient>
+</defs>
+<g id="Layer 1" vectornator:layerName="Layer 1">
+<text stroke="#476268" stroke-width="1.5" x="0" font-family="DMSans-Bold" fill="url(#LinearGradient)" stroke-linecap="butt" font-size="219" opacity="1" stroke-linejoin="miter" text-anchor="middle" transform="matrix(1 0 0 1 0 -30.3849)" stroke-opacity="0" y="0" vectornator:width="986.748" vectornator:text="CrossVal.">
+<tspan x="493.374" y="217" textLength="983.748">
+CrossVal.</tspan>
+</text>
+</g>
+</svg>

@@ -1,6 +1,6 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {
-  reactStrictMode: true,
+module.exports = {
+  env: {
+    "DEV_API_URL": "http://localhost:8000",
+    "PRODUCTION_API_URL": "https://www.ajinkyatanpure.com"
+  }
 }
-
-module.exports = nextConfig

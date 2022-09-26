@@ -1,6 +1,7 @@
 /* eslint-disable react/display-name */
 
 import { Component } from "react"
+import Link from 'next/link'
 
 import Header from "../components/header.js"
 import Footer from "../components/footer.js"
@@ -37,7 +38,8 @@ export default class extends Component {
         <div className="homepage-latest-blog-posts">
           <h2>
             Latest Posts 
-            <a className="homepage-latest-blog-posts-view-all" href="/blog"> View All</a>
+            <className="homepage-latest-blog-posts-view-all" href="/blog"> 
+              <a View All</a>
           </h2>
           
           <div className="homepage-latest-blog-posts-list">

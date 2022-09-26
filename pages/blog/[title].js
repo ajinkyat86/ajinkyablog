@@ -1,3 +1,5 @@
+/* eslint-disable react/display-name */
+
 import { Component } from "react"
 import Prism from "prismjs"
 import moment from "moment"

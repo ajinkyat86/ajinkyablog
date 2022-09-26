@@ -25,7 +25,7 @@ export default class extends Component {
             this.props.statusCode === 404 ?
             <>
               <h1>404 Page Not Found</h1>
-              <p>We can't seem to find the page you're looking for.</p>
+              <p>We can&apos;t seem to find the page you&apos;re looking for.</p>
             </> :
             <>
               <h1>An Error Occurred</h1>

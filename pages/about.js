@@ -11,14 +11,14 @@ export default class extends Component {
       <div className="layout-wrapper">
         <HeadMetadata
           title="About Me | Ajinkya's Blog"
-          metaDescription="Nick Major is a full stack software developer that also writes about modern NodeJS and JavaScript."
+          metaDescription="Lorem Ipsum"
         />
         <Header />
         <div className="about-container">
           <div className="about-section">
             <h1>About Me</h1>
-            <p>I’m Nick major, a full stack software developer and technical writer.</p>
-            <p>I started this website as a place to document everything I learned while going through a career change. I learn in public and write about everything I know.</p>
+            <p>Lorem Ipsum</p>
+            <p>Lorem Ipsum.</p>
           </div>
           <div className="about-section">
             <h2>My Projects</h2>

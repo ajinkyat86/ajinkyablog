@@ -27,7 +27,7 @@ export default class extends Component {
         <div className="homepage-container">
        
           <div className="homepage-introduction"></div>
-          <h1> Hi There, I'm Ajinkya <a className="intro-logo-image"> 
+          <h1> Hi There, I&apos;m Ajinkya <a className="intro-logo-image"> 
               <img src="https://i.postimg.cc/rmLZLFCV/ajmemoji.png"/> </a></h1>
           <h2> Entrepreneur, triathlete and extroverted nerd.</h2>
           <p> This started as a side project with 2 goals:</p>

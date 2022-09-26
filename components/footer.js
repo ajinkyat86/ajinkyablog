@@ -1,3 +1,6 @@
+/* eslint-disable react/display-name */
+
+import Link from 'next/link'
 import { Component } from "react"
 
 export default class extends Component {
@@ -5,9 +8,15 @@ export default class extends Component {
     return (
       <footer className="footer-wrapper">
         <div className="footer-links">
-          <a href="/blog">Blog</a>
-          <a href="/about">Why this exists</a>
-          <a href="/contact">Contact</a>
+          <Link href="/blog">
+	 <a>Blog </a>
+	    </Link>
+          <Link href="/about">
+	   <a>Why this exists </a>
+	    </Link>
+          <Link href="/contact">
+	   <a>Contact </a>
+	    </Link>
         </div>
         <div className="footer-bottom-msg">
           <p>Ajinkya Tanpure</p>

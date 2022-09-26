@@ -38,8 +38,9 @@ export default class extends Component {
         <div className="homepage-latest-blog-posts">
           <h2>
             Latest Posts 
-            <className="homepage-latest-blog-posts-view-all" href="/blog"> 
-              <a View All</a>
+            <Link className="homepage-latest-blog-posts-view-all" href="/blog"> 
+              <a>View All </a>
+</Link>
           </h2>
           
           <div className="homepage-latest-blog-posts-list">

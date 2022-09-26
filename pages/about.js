@@ -1,10 +1,10 @@
+/* eslint-disable react/display-name */
 import { Component } from "react"
 
 import Header from "../components/header.js"
 import Footer from "../components/footer.js"
 import HeadMetadata from "../components/headMetadata.js"
 
-eslint-disable-next-line react/display-name
 export default class extends Component {
   render () {
     return (
